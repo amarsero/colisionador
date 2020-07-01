@@ -1,0 +1,21 @@
+C:\Users\pWnd.-\AppData\Local\Temporary Projects\Grafiquera\bin\Debug\Grafiquera.exe.config
+C:\Users\pWnd.-\AppData\Local\Temporary Projects\Grafiquera\bin\Debug\Grafiquera.exe
+C:\Users\pWnd.-\AppData\Local\Temporary Projects\Grafiquera\bin\Debug\Grafiquera.pdb
+C:\Users\pWnd.-\AppData\Local\Temporary Projects\Grafiquera\obj\Debug\Grafiquera.csprojResolveAssemblyReference.cache
+C:\Users\pWnd.-\AppData\Local\Temporary Projects\Grafiquera\obj\Debug\Grafiquera.Form1.resources
+C:\Users\pWnd.-\AppData\Local\Temporary Projects\Grafiquera\obj\Debug\Grafiquera.Properties.Resources.resources
+C:\Users\pWnd.-\AppData\Local\Temporary Projects\Grafiquera\obj\Debug\Grafiquera.csproj.GenerateResource.Cache
+C:\Users\pWnd.-\AppData\Local\Temporary Projects\Grafiquera\obj\Debug\Grafiquera.exe
+C:\Users\pWnd.-\AppData\Local\Temporary Projects\Grafiquera\obj\Debug\Grafiquera.pdb
+C:\Users\pWnd.-\Documents\Visual Studio 2013\Projects\Grafiquera\Grafiquera\bin\Debug\Grafiquera.exe.config
+C:\Users\pWnd.-\Documents\Visual Studio 2013\Projects\Grafiquera\Grafiquera\obj\Debug\Grafiquera.exe
+C:\Users\pWnd.-\Documents\Visual Studio 2013\Projects\Grafiquera\Grafiquera\obj\Debug\Grafiquera.pdb
+C:\Users\pWnd.-\Documents\Visual Studio 2013\Projects\Grafiquera\Grafiquera\bin\Debug\Grafiquera.exe
+C:\Users\pWnd.-\Documents\Visual Studio 2013\Projects\Grafiquera\Grafiquera\bin\Debug\Grafiquera.pdb
+C:\Users\pWnd.-\Documents\Visual Studio 2013\Projects\Grafiquera\Grafiquera\obj\Debug\Grafiquera.csprojResolveAssemblyReference.cache
+C:\Users\pWnd.-\Documents\Visual Studio 2013\Projects\Grafiquera\Grafiquera\obj\Debug\Grafiquera.Form1.resources
+C:\Users\pWnd.-\Documents\Visual Studio 2013\Projects\Grafiquera\Grafiquera\obj\Debug\Grafiquera.Properties.Resources.resources
+C:\Users\pWnd.-\Documents\Visual Studio 2013\Projects\Grafiquera\Grafiquera\obj\Debug\Grafiquera.csproj.GenerateResource.Cache
+C:\Users\pWnd.-\Documents\colisionador\Grafiquera\Grafiquera\bin\Debug\Grafiquera.exe.config
+C:\Users\pWnd.-\Documents\colisionador\Grafiquera\Grafiquera\obj\Debug\Grafiquera.exe
+C:\Users\pWnd.-\Documents\colisionador\Grafiquera\Grafiquera\obj\Debug\Grafiquera.pdb
